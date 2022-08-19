@@ -1,6 +1,4 @@
-# Introduction to Algorithmic Trading
-
-The python code contains implementation and backtesting of a few trading strategies along with the csv files of the stocks choosen. These are implemented using backtrader, a python library developed for backtesting various strategies. The strategy is defined using a class and has a variety of built in functionalities.
+# Algorithmic Trading
 
 ## Strategies
 
